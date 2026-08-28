@@ -1,0 +1,13 @@
+Week,Topic_Module,Target_Audience,Primary_Channel,Activity_Type,Key_Metric_KPI
+Week 1,Campaign Launch & Cybersecurity Basics,All Workforce,Executive Video Message & Intranet,Town Hall & Micro-Learning Video,95%+ Video view completion rate
+Week 2,Password Security & Password Managers,All Workforce,Intranet Banner & Email Digest,Interactive Passphrase Challenge,40% Increase in Enterprise Password Manager adoption
+Week 3,Multi-Factor Authentication (MFA) & FIDO2,All Workforce,Slack/Teams Announcement,MFA Setup Support Clinic,100% Enrollment in FIDO2 hardware MFA
+Week 4,Phishing & Email Threat Recognition,All Workforce,Email Broadcast & Digital Posters,Baseline Simulated Phishing Campaign,Phishing Click-Through Rate < 5%; Reporting Rate > 70%
+Week 5,Social Engineering & Smishing/Vishing,Finance & HR Teams,Targeted Workshop & Infographic,Vishing Scenario Role-Play Workshop,100% Attendance for Finance/HR staff
+Week 6,Safe Internet Usage & Web Hygiene,Remote & Hybrid Staff,Intranet Article & Desktop Wallpaper,Interactive Web Security Quiz,Quiz completion rate > 85% with passing score
+Week 7,Malware & Ransomware Prevention,IT & Technical Staff,Tech Blog & Specialized Webinar,Ransomware Containment Simulation,Zero unapproved software installations
+Week 8,Data Protection & Privacy (PII/PHI),All Workforce,E-Learning Portal Module,Interactive Data Classification Game,100% E-learning module completion
+Week 9,Device Security & Remote Work Safety,Remote & Mobile Staff,Infographic Guide & Push Alert,Remote Work Security Health-Check,100% Compliance with endpoint encryption policies
+Week 10,Incident Reporting & SOC Escalation,All Workforce,One-Click Reporting Button Launch,Live "Spot the Phish" Reporting Drill,Report button usage increase by 150%
+Week 11,Physical Security & Clean Desk Policy,Office Staff & Onsite Employees,Physical Posters & Floor Walkthroughs,Clean Desk Sweep Audit & Badging Drill,Zero exposed credentials/unattended unlocked screens
+Week 12,Campaign Review & Culture Awards,All Workforce,Executive All-Hands Meeting,Cybersecurity Champions Award Ceremony,Annual Security Awareness Culture Score increase
