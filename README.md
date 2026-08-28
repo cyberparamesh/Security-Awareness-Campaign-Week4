@@ -64,10 +64,3 @@ Security-Awareness-Campaign-Week4/
 
 ---
 
-## 🚀 Submission Instructions
-
-1. **For YuvaIntern Document Submission:**
-   - Upload `Week4_Security_Awareness_Campaign.docx` located in the root or `report/` folder.
-
-2. **For GitHub Codebase Submission:**
-   - Push this repository to your GitHub account (`cyberparamesh`) under the project folder `Security-Awareness-Campaign-Week4`.
